@@ -1,4 +1,4 @@
-# Student_Achievement_Tracking_Protal
+# Student_Achievement_Tracking_Portal
 
 ## **INTRODUCTION**
 
