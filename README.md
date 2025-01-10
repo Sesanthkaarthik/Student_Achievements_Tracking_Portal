@@ -21,7 +21,7 @@ The primary objective of the portal is to create a centralized platform for show
 -	Foster a sense of motivation and recognition among students by providing them with the opportunity to view and be inspired by their peers' achievements.
 
 ### **2.3 Technologies Used - Front end and Back end Technologies**
-SAMS leverages a selected set of front-end and back-end technologies for optimal performance and user experience:
+Sudent Achievement Tracking Portal leverages a selected set of front-end and back-end technologies for optimal performance and user experience:
 
 #### **Front-end Technologies:**
 -	**HTML5, CSS3, and JavaScript:** These fundamental web technologies form the backbone of the user interface, ensuring a visually appealing and responsive design.
